@@ -7,6 +7,8 @@
 
 import Foundation
 
+// Criando Classes
+
 class Casa{
     var quantDeQuartos: Int = 4
     var temBanheiro: Bool = true
