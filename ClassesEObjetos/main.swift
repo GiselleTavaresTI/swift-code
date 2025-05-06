@@ -52,7 +52,7 @@ class Pessoa{
     
 }
 
-var giselle: Pessoa = Pessoa(nome: "Giselle", idade: 38, peso: 64.100 , altura: 1.63)
+var giselle: Pessoa = Pessoa(nome: "Giselle", idade: 38, peso: 63 , altura: 1.63)
 
 print(giselle.idade)
 
